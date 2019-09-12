@@ -1,0 +1,23 @@
+[
+  {
+    "name": "basha",
+    "age": "22"
+  },
+  {
+    "name": "harsha",
+    "age": 23
+  },
+  {
+    "name": "anil",
+    "age": 22
+  },
+  {
+    "logtransports":{
+  "handleExceptions": true,
+  "humanReadableUnhandledException": true,
+  "json":false,
+  "timestamp": false,
+  "filename": "logs/all_logs.log"
+}
+}
+]
